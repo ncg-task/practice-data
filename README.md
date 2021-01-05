@@ -30,7 +30,7 @@ A valid sample submission for the practice phase can be downloaded here https://
 
 #### Additional Notes
 
-Please see the [evaluation script](https://github.com/ncg-task/scoring-program/blob/master/evaluation.py), lines 274 to 285 for the expected labels as the information unit file names.
+Please see the [evaluation script](https://github.com/ncg-task/scoring-program/blob/master/evaluation.py), lines 274 to 285 for the expected information unit file names.
 
 Further, within each file, the expected labels for the top-level nodes are:
 

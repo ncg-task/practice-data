@@ -27,3 +27,21 @@ The submission will have be organized per the following directory structure:
         └── ...                                        # if K tasks were selected overall, this repeats (K-1) more times		
 		
 A valid sample submission for the practice phase can be downloaded here https://github.com/ncg-task/practice-data/blob/master/submission.zip
+
+Please see the (evaluation script)[computational complexity], lines 274 to 285 for the expected labels as the information unit file names.
+
+Within each file, the expected labels for the top-level nodes are:
+
+1. research-problem.txt
+`has research problem'
+2. code.txt
+`Code'
+3. dataset.txt
+`Dataset'
+4. Approach.txt
+`has', `Approach'
+5. Model.txt
+`has', `Model'
+...
+
+Except for IUs 1, 2, and 3, the rest of the IUs add the predicate `has' in lowercase and the IU name in sentence case (e.g., experimental-setup.txt would be `Experimental setup').

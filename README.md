@@ -43,10 +43,10 @@ Further, within each file, the expected top-level node names are:
 3. dataset.txt
 `Dataset`
 
-4. Approach.txt
+4. approach.txt
 `has`, `Approach`
 
-5. Model.txt
+5. model.txt
 `has`, `Model`
 
 6. ...

@@ -28,7 +28,7 @@ The submission will have be organized per the following directory structure:
 		
 A valid sample submission for the practice phase can be downloaded here https://github.com/ncg-task/practice-data/blob/master/submission.zip
 
-Please see the (evaluation script)[https://github.com/ncg-task/scoring-program/blob/master/evaluation.py], lines 274 to 285 for the expected labels as the information unit file names.
+Please see the [evaluation script](https://github.com/ncg-task/scoring-program/blob/master/evaluation.py), lines 274 to 285 for the expected labels as the information unit file names.
 
 Within each file, the expected labels for the top-level nodes are:
 

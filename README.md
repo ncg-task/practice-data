@@ -49,8 +49,8 @@ Further, within each file, the expected labels for the top-level nodes are:
 5. Model.txt
 `has`, `Model`
 
-...
+6. ...
 
 Except for IUs 1, 2, and 3, the rest of the IUs add the predicate `has` in lowercase and the IU name in sentence case (e.g., experimental-setup.txt would be `Experimental setup`).
 
-For any further doubts, please see the files in the triples folder provided as the NCG task [training data](https://github.com/ncg-task/training-data).
+For concrete examples, please see the files in the triples folders provided as the NCG task [training data](https://github.com/ncg-task/training-data).

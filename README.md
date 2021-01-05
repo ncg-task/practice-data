@@ -32,7 +32,7 @@ A valid sample submission for the practice phase can be downloaded here https://
 
 Please see the [evaluation script](https://github.com/ncg-task/scoring-program/blob/master/evaluation.py), lines 274 to 285 for the expected information unit file names.
 
-Further, within each file, the expected labels for the top-level nodes are:
+Further, within each file, the expected top-level node names are:
 
 1. research-problem.txt 
 `has research problem`

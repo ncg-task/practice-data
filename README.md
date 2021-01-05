@@ -26,4 +26,4 @@ The submission will have be organized per the following directory structure:
         │   └── ...                                    # if N articles were annotated, this repeats (N-1) more times
         └── ...                                        # if K tasks were selected overall, this repeats (K-1) more times		
 		
-The Sample Submission format was originally provided here: https://github.com/ncg-task/sample-submission
+A valid sample submission for the practice phase can be downloaded here https://github.com/ncg-task/practice-data/blob/master/submission.zip
